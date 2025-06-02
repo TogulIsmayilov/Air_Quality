@@ -1,2 +1,20 @@
 # Air_Quality
-The main objective of this project is to analyze the daily levels of the air quality index (AQI) in different cities and to reveal the potential effects of these changes on human health. As a result of the analysis, effective measures related to air pollution are proposed to city leaders and the public. Data were read, cleaned and structured with the Polars library.  Air quality in different cities was compared.  Relationships between AQI and individual pollutants were investigated.  A bar chart is set up for visual analysis  The highest and lowest AQI values ​​were found and interpreted. Real-time weather monitoring systems should be expanded.  Control of industrial and transport emissions should be strengthened.  On days when AQI is high, warning messages should be sent to the public and masks and restrictions on outdoor activities should be recommended.  Sources of PM10 and CO pollutants should be determined and local measures should be implemented.
+The main features of this project are to analyze the daily level of air quality index (AQI) in different cities and to reveal the potential effects of these changes on human health. Analysis of the city leaders and the impact of effective measures on air pollution.
+
+Data were read, cleaned and structured with the Polars library.
+
+Air quality in different cities was compared.
+
+Relationships were found between AQI and individual pollutants.
+
+A bar chart is built for visual analysis.
+
+The highest and lowest AQI values ​​were found and interpreted.
+
+Real-time weather monitoring systems should be expanded.
+
+Control of industrial and transport emissions should be strengthened.
+
+On days when AQI is high, warning messages should be sent to the public and masks and restrictions on outdoor activities should be recommended.
+
+Sources of PM10 and CO pollutants should be determined and local measures should be implemented.
